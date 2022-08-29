@@ -34,8 +34,8 @@ Below the "Your work here" section header, do the following 3 things. To turn th
 
 __Math 2401__ | __Data 2401__   
 ------------- | ------------- 
-_Calculus I_  | _Data Science_
-Youn-Sha Chan | K. Shoemaker  
+ _Calculus I_  |  _Data Science_
+ Youn-Sha Chan |  K. Shoemaker  
 
 3. Lastly, make subsection called "I recommend", and add some information about your favorite author or musician.
     
@@ -45,7 +45,9 @@ Youn-Sha Chan | K. Shoemaker
 
 
 # I recommend
-## Ariana Grande
+
+_Ariana Grande_
+
 ```
 I've never been this scared before
 Feelings I just can't ignore
